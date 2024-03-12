@@ -17,7 +17,7 @@ have issues in your team. Meet regularly in your team and stay in contact.
 The project consists of two parts:
 
 * The implementation of a core game component `cw-model`
-<!--* The implementation of an open-ended AI extension `cw-ai`-->
+* The implementation of an open-ended AI extension `cw-ai`
 
 You will need to produce a 3-page PDF report accompanying your work. The assessment will be a VIVA
 at the end of term where you present your work and where we will discuss how you have understood
