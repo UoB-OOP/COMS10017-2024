@@ -81,6 +81,7 @@ Maven, but feel free to read up about it [here](maven.md).
 **TODO:** Start by creating a repository with the skeleton code from this zip file in it:
 
 * [cw-model](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/cw-model.zip)
+* [cw-model Apple Silicon fix](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/cw-model_apple_silicon_fix)
 
 If you use Git, a `.gitignore` file is already present with all the correct files to ignore.
 
