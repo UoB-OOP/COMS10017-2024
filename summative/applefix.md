@@ -6,4 +6,9 @@ Java FX fix for Apple Silicon
 
 2. Delete you local Maven repo. In the terminal type: ```rm ~/.m2```
 
-Reaload Maven in Intellij:
+3. Reaload Maven in Intellij:
+  
+   ![maven reload](mavenreload.png)
+
+4. Try running the GUI again:
+   ![run model](runmodel.png)
