@@ -2,7 +2,7 @@
 
 [UTM](https://docs.getutm.app/guides/ubuntu/) running [Ubuntu Server for Arm](https://ubuntu.com/download/server/arm) with the Desktop Environment has been tested with the Scotland Yard Coursework and runs reliably on the two machines we have tested it on. It also is useful throughout your studies to have a true Linux environment to supplement your Mac
 
-### Installing UTM running Ubuntu Server + DE
+### Installing UTM running Ubuntu Server + Desktop Environment
 
 1. Follow the [UTM](https://docs.getutm.app/guides/ubuntu/) tutotial.
 2. If you have trouble sharing folders try the following in a terminal (credit to current 1st year student):
