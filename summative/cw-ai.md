@@ -1,6 +1,8 @@
 CW-AI
 -----
 
+* [FIX FOR APPLE SILICON, when GUI crashes](applefix.md)
+
 This second coursework part completes the Scotland Yard project, it is open-ended. Before embarking
 on it make sure you have produced a bug-free, stable, well coded and well documented model for
 the `CW-MODEL` part. Make sure you take some time again to review the object-orientation concepts
