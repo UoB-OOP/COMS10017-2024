@@ -33,10 +33,10 @@ complex.
   * #### Linux   
     - [Remote, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-remote-2024-linux-x86_64.jar)
     - [Local, Linux and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-local-2024-linux-x86_64.jar)
-    - [Remote, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-remote-2024-linux-arm64.jar)
-    - [Local, Linux and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-local-2024-linux-arm64.jar)
+    - [Remote, Linux and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-local-2024-fix-mac-arm64)
+    - [Local, Linux and arm64 FIXED Java FX](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-local-2024-linux-arm64.jar)
   * #### Apple 
-    - [Remote, Mac (M1,M2,M3) and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-remote-2024-mac-arm64.jar)
+    - [Remote, Mac (M1,M2,M3) and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-remote-2024-fix-mac-arm64)
     - [Local, Mac (M1,M2,M3) and arm64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-local-2024-mac-arm64.jar)
     - [Remote, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-remote-2024-mac-x86_64.jar)
     - [Local, Mac (Intel) and x86_64](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/scotlandyard-local-2024-mac-x86_64.jar)
