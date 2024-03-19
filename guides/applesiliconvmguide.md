@@ -13,4 +13,4 @@
 ```
 3. Install the Arm version of Intellij onto you Ubuntu VM. [ideaIC-2023.3.5-aarch64.tar.gz](https://download.jetbrains.com/idea/ideaIC-2023.3.5-aarch64.tar.gz?_gl=1*16wkqnv*_ga*ODY5OTEwMDM2LjE3MDE2OTExNTg.*_ga_9J976DJZ68*MTcxMDg1Nzg3Mi41LjEuMTcxMDg1Nzg5NS4wLjAuMA..&_ga=2.16582838.1020350076.1710857872-869910036.1701691158)
 4. Make sure install the Arm version of Java too:
-   ![arm java](armjava.png)
+   ![arm java](armjava_1.png)
