@@ -11,4 +11,4 @@ Java FX fix for Apple Silicon
    ![maven reload](mavenreload.png)
 
 4. Try running the GUI again:
-   ![run model](runmodel.png)
+   ![run model](rungui.png)
