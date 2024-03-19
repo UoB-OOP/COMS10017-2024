@@ -1,6 +1,8 @@
 The Scotland Yard Project
 =========================
 
+## Fixes and workarounds for Apple Silicon: [staying in Apple Land](https://github.com/UoB-OOP/COMS10017-2024/blob/main/summative/applefix.md) and [using Ubuntu on Virtual Machine](https://github.com/UoB-OOP/COMS10017-2024/blob/main/guides/applesiliconvmguide.md)
+
 Welcome to the Scotland Yard project!
 The project will help you to develop your programming skills, in particular to gain further
 competence, confidence and agility in the way you write object-oriented programs. The project will
