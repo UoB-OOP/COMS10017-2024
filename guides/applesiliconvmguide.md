@@ -1,4 +1,4 @@
-## Ubuntu Virtual Machine on Apple Silicon (credit to current 1st year student)
+## Ubuntu Virtual Machine on Apple Silicon (credit to current 1st year student) - WARNING, YOU INSTALL THIRD PARTY SOFTWARE ONTO YOU OWN MACHINE AT YOUR OWN RISK
 
 [UTM](https://docs.getutm.app/guides/ubuntu/) running [Ubuntu Server for Arm](https://ubuntu.com/download/server/arm) with the Desktop Environment has been tested with the Scotland Yard Coursework and runs reliably on the two machines we have tested it on. It also is useful throughout your studies to have a true Linux environment to supplement your Mac
 
