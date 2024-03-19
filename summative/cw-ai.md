@@ -22,6 +22,7 @@ manually.
 code from this zip file in it:
 
 * [cw-ai](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/cw-ai.zip)
+* [cw-ai Apple silicon fix](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS10017_2023_TB-2/content/oo/code/cw-ai_apple_silicon_fix.zip)
 
 If you use Git, a `.gitignore` file is already present with all the correct files to ignore.
 
