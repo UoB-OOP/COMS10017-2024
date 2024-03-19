@@ -1,6 +1,8 @@
 CW-MODEL
 ========
 
+* [FIX FOR APPLE SILICON, when GUI crashes](applefix.md)
+
 In this first task we will ask you to implement Java classes, which model the game mechanics of
 "Scotland Yard" within a given software framework.
 
