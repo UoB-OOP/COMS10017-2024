@@ -1,6 +1,6 @@
 ## Java FX fix for Apple Silicon
 
-### Background: Java is essentially slightly broken on the latest version of Mac OS (Sonoma 14.4): See [here](https://bugs.java.com/bugdatabase/view_bug?bug_id=8327860) and [here](https://blogs.oracle.com/java/post/java-on-macos-14-4) If you have not updgraded yet, it is best to wait until after the coursework. 
+### Background: Java is essentially slightly broken on the latest version of Mac OS (Sonoma 14.4): See [here](https://bugs.java.com/bugdatabase/view_bug?bug_id=8327860) and [here](https://blogs.oracle.com/java/post/java-on-macos-14-4) If you have not upgraded yet, it is best to wait until after the coursework. 
 
 ### If you continue to experience problems after applying this fix, you could attempt the Virtual Machine approach. There is a guide [here](https://github.com/UoB-OOP/COMS10017-2024/blob/main/guides/applesiliconvmguide.md).
 
